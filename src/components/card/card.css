@@ -1,0 +1,15 @@
+.card{
+    width: 250px;
+    height: auto;
+    background-color: purple;
+    color: #fff;
+    padding: 10px;
+}
+button{
+    background: red;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    margin-top: 5px;
+}

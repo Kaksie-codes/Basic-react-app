@@ -1,0 +1,7 @@
+.wrapper{
+    margin-top: 5rem;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
