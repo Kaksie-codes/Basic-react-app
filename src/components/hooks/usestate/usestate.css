@@ -1,0 +1,9 @@
+.usestate{
+    max-width: 60%;
+    margin-inline: auto;
+    background-color: black;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    color: #fff;
+}

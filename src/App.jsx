@@ -5,6 +5,7 @@ import './App.css'
 import Navbar from './components/navbar/Navbar'
 import CardWrapper from './components/cardwrapper/CardWrapper'
 import Home from './pages/home'
+import Usestate from './components/hooks/usestate/Usestate'
 
 function App() {
   const car = {
@@ -19,12 +20,13 @@ function App() {
   // const doors = car.doors;
 
   // console.log(car.doors);
-  console.log(model);
+  // console.log(model);
   return (
     <>
       {/* <Navbar/>
       <CardWrapper/>      */}
-      <Home />
+      {/* <Home /> */}
+      <Usestate/>
     </>
   )
 }
